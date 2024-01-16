@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharp_Learn
 {
-    internal class Program
+    internal class HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Hello World, {Console.ReadLine()}!");
         }
     }
 }
