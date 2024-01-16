@@ -20,3 +20,10 @@
 
 실행 결과
 ![Cmd 12794](img/cmd_12794.png)
+
+
+## for 문 사용하기
+
+```CSharp
+	for(int i = 0; i < 2; i++)
+```

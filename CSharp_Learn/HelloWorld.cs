@@ -10,7 +10,10 @@ namespace CSharp_Learn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Hello World, {Console.ReadLine()}!");
+            for(int i = 0; i < 2; i++)
+            {
+                Console.WriteLine($"Hello World, {Console.ReadLine()}!");
+            }
         }
     }
 }
