@@ -50,5 +50,9 @@
     <None Include="App.config" />
     <None Include="HelloWorld.md" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="img\cmd_12794.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

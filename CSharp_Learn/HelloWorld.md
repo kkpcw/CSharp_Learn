@@ -18,3 +18,5 @@
 	Console.WriteLine($"Hello World, {Console.ReadLine()}!");
 ```
 
+실행 결과
+![Cmd 12794](img/cmd_12794.png)
