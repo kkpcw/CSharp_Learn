@@ -4,6 +4,6 @@
 
 ## Test Project
 
-[Helloworld Dir](csharp_learn/helloworld.cs)
+[Helloworld Dir](CSharp_Learn/HelloWorld.cs)
 
-[Helloworld.cs](csharp_learn/helloworld.cs)
+[Helloworld.cs](CSharp_Learn/HelloWorld.cs)
