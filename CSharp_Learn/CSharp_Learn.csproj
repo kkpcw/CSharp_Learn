@@ -48,11 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="HelloWorld.md" />
+    <None Include="Doc\HelloWorld.md" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="img\cmd_12794.png" />
+    <Content Include="Doc\img\cmd_12794.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

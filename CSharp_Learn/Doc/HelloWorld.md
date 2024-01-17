@@ -1,4 +1,8 @@
-﻿# CSharp_Learn
+﻿---
+
+---
+
+# CSharp_Learn
 	C#을 배워봅시다
 
 ## HelloWorld.cs
@@ -18,7 +22,8 @@
 	Console.WriteLine($"Hello World, {Console.ReadLine()}!");
 ```
 
-실행 결과
+### 실행 결과
+
 ![Cmd 12794](img/cmd_12794.png)
 
 
